@@ -1,0 +1,448 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\salak301\\source\\repos\\Productos_JP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1753494B-8946-4BED-9A18-EA2FF839A110}|Aplicaciones_Productos_JP_Lib\\Aplicaciones_Productos_JP_Lib.csproj|c:\\users\\salak301\\source\\repos\\productos_jp\\aplicaciones_productos_jp_lib\\script.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{1753494B-8946-4BED-9A18-EA2FF839A110}|Aplicaciones_Productos_JP_Lib\\Aplicaciones_Productos_JP_Lib.csproj|solutionrelative:aplicaciones_productos_jp_lib\\script.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1753494B-8946-4BED-9A18-EA2FF839A110}|Aplicaciones_Productos_JP_Lib\\Aplicaciones_Productos_JP_Lib.csproj|c:\\users\\salak301\\source\\repos\\productos_jp\\aplicaciones_productos_jp_lib\\entidades\\productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1753494B-8946-4BED-9A18-EA2FF839A110}|Aplicaciones_Productos_JP_Lib\\Aplicaciones_Productos_JP_Lib.csproj|solutionrelative:aplicaciones_productos_jp_lib\\entidades\\productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1753494B-8946-4BED-9A18-EA2FF839A110}|Aplicaciones_Productos_JP_Lib\\Aplicaciones_Productos_JP_Lib.csproj|c:\\users\\salak301\\source\\repos\\productos_jp\\aplicaciones_productos_jp_lib\\implementaciones\\productosaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1753494B-8946-4BED-9A18-EA2FF839A110}|Aplicaciones_Productos_JP_Lib\\Aplicaciones_Productos_JP_Lib.csproj|solutionrelative:aplicaciones_productos_jp_lib\\implementaciones\\productosaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72918241-AB8C-43A1-8464-79ACDC0AE25F}|Front_Producto_JP_Lib\\Front_Producto_JP_Lib.csproj|c:\\users\\salak301\\source\\repos\\productos_jp\\front_producto_jp_lib\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72918241-AB8C-43A1-8464-79ACDC0AE25F}|Front_Producto_JP_Lib\\Front_Producto_JP_Lib.csproj|solutionrelative:front_producto_jp_lib\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72918241-AB8C-43A1-8464-79ACDC0AE25F}|Front_Producto_JP_Lib\\Front_Producto_JP_Lib.csproj|c:\\users\\salak301\\source\\repos\\productos_jp\\front_producto_jp_lib\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72918241-AB8C-43A1-8464-79ACDC0AE25F}|Front_Producto_JP_Lib\\Front_Producto_JP_Lib.csproj|solutionrelative:front_producto_jp_lib\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{583A5793-14C1-4FFE-BD80-34D3ED29BF9C}|Servicios_Productos_JP_Lib\\Servicios_Productos_JP_Lib.csproj|c:\\users\\salak301\\source\\repos\\productos_jp\\servicios_productos_jp_lib\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{583A5793-14C1-4FFE-BD80-34D3ED29BF9C}|Servicios_Productos_JP_Lib\\Servicios_Productos_JP_Lib.csproj|solutionrelative:servicios_productos_jp_lib\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{583A5793-14C1-4FFE-BD80-34D3ED29BF9C}|Servicios_Productos_JP_Lib\\Servicios_Productos_JP_Lib.csproj|c:\\users\\salak301\\source\\repos\\productos_jp\\servicios_productos_jp_lib\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{583A5793-14C1-4FFE-BD80-34D3ED29BF9C}|Servicios_Productos_JP_Lib\\Servicios_Productos_JP_Lib.csproj|solutionrelative:servicios_productos_jp_lib\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72918241-AB8C-43A1-8464-79ACDC0AE25F}|Front_Producto_JP_Lib\\Front_Producto_JP_Lib.csproj|c:\\users\\salak301\\source\\repos\\productos_jp\\front_producto_jp_lib\\pages\\ventanas\\productos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72918241-AB8C-43A1-8464-79ACDC0AE25F}|Front_Producto_JP_Lib\\Front_Producto_JP_Lib.csproj|solutionrelative:front_producto_jp_lib\\pages\\ventanas\\productos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72918241-AB8C-43A1-8464-79ACDC0AE25F}|Front_Producto_JP_Lib\\Front_Producto_JP_Lib.csproj|c:\\users\\salak301\\source\\repos\\productos_jp\\front_producto_jp_lib\\pages\\ventanas\\productos.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72918241-AB8C-43A1-8464-79ACDC0AE25F}|Front_Producto_JP_Lib\\Front_Producto_JP_Lib.csproj|solutionrelative:front_producto_jp_lib\\pages\\ventanas\\productos.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72918241-AB8C-43A1-8464-79ACDC0AE25F}|Front_Producto_JP_Lib\\Front_Producto_JP_Lib.csproj|c:\\users\\salak301\\source\\repos\\productos_jp\\front_producto_jp_lib\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72918241-AB8C-43A1-8464-79ACDC0AE25F}|Front_Producto_JP_Lib\\Front_Producto_JP_Lib.csproj|solutionrelative:front_producto_jp_lib\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72918241-AB8C-43A1-8464-79ACDC0AE25F}|Front_Producto_JP_Lib\\Front_Producto_JP_Lib.csproj|c:\\users\\salak301\\source\\repos\\productos_jp\\front_producto_jp_lib\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72918241-AB8C-43A1-8464-79ACDC0AE25F}|Front_Producto_JP_Lib\\Front_Producto_JP_Lib.csproj|solutionrelative:front_producto_jp_lib\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72918241-AB8C-43A1-8464-79ACDC0AE25F}|Front_Producto_JP_Lib\\Front_Producto_JP_Lib.csproj|c:\\users\\salak301\\source\\repos\\productos_jp\\front_producto_jp_lib\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72918241-AB8C-43A1-8464-79ACDC0AE25F}|Front_Producto_JP_Lib\\Front_Producto_JP_Lib.csproj|solutionrelative:front_producto_jp_lib\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72918241-AB8C-43A1-8464-79ACDC0AE25F}|Front_Producto_JP_Lib\\Front_Producto_JP_Lib.csproj|c:\\users\\salak301\\source\\repos\\productos_jp\\front_producto_jp_lib\\pages\\error.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72918241-AB8C-43A1-8464-79ACDC0AE25F}|Front_Producto_JP_Lib\\Front_Producto_JP_Lib.csproj|solutionrelative:front_producto_jp_lib\\pages\\error.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72918241-AB8C-43A1-8464-79ACDC0AE25F}|Front_Producto_JP_Lib\\Front_Producto_JP_Lib.csproj|c:\\users\\salak301\\source\\repos\\productos_jp\\front_producto_jp_lib\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72918241-AB8C-43A1-8464-79ACDC0AE25F}|Front_Producto_JP_Lib\\Front_Producto_JP_Lib.csproj|solutionrelative:front_producto_jp_lib\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1753494B-8946-4BED-9A18-EA2FF839A110}|Aplicaciones_Productos_JP_Lib\\Aplicaciones_Productos_JP_Lib.csproj|c:\\users\\salak301\\source\\repos\\productos_jp\\aplicaciones_productos_jp_lib\\nucleo\\logconversor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1753494B-8946-4BED-9A18-EA2FF839A110}|Aplicaciones_Productos_JP_Lib\\Aplicaciones_Productos_JP_Lib.csproj|solutionrelative:aplicaciones_productos_jp_lib\\nucleo\\logconversor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1753494B-8946-4BED-9A18-EA2FF839A110}|Aplicaciones_Productos_JP_Lib\\Aplicaciones_Productos_JP_Lib.csproj|c:\\users\\salak301\\source\\repos\\productos_jp\\aplicaciones_productos_jp_lib\\nucleo\\datosgenerales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1753494B-8946-4BED-9A18-EA2FF839A110}|Aplicaciones_Productos_JP_Lib\\Aplicaciones_Productos_JP_Lib.csproj|solutionrelative:aplicaciones_productos_jp_lib\\nucleo\\datosgenerales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51E4555F-5559-4143-A4BD-E3F2A34194D5}|Presentacion_Productos_JP_Lib\\Presentacion_Productos_JP_Lib.csproj|c:\\users\\salak301\\source\\repos\\productos_jp\\presentacion_productos_jp_lib\\presentacion_productos_jp_lib.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{51E4555F-5559-4143-A4BD-E3F2A34194D5}|Presentacion_Productos_JP_Lib\\Presentacion_Productos_JP_Lib.csproj|solutionrelative:presentacion_productos_jp_lib\\presentacion_productos_jp_lib.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51E4555F-5559-4143-A4BD-E3F2A34194D5}|Presentacion_Productos_JP_Lib\\Presentacion_Productos_JP_Lib.csproj|c:\\users\\salak301\\source\\repos\\productos_jp\\presentacion_productos_jp_lib\\interfaces\\icomunicaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51E4555F-5559-4143-A4BD-E3F2A34194D5}|Presentacion_Productos_JP_Lib\\Presentacion_Productos_JP_Lib.csproj|solutionrelative:presentacion_productos_jp_lib\\interfaces\\icomunicaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51E4555F-5559-4143-A4BD-E3F2A34194D5}|Presentacion_Productos_JP_Lib\\Presentacion_Productos_JP_Lib.csproj|c:\\users\\salak301\\source\\repos\\productos_jp\\presentacion_productos_jp_lib\\interfaces\\iproductospresentacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51E4555F-5559-4143-A4BD-E3F2A34194D5}|Presentacion_Productos_JP_Lib\\Presentacion_Productos_JP_Lib.csproj|solutionrelative:presentacion_productos_jp_lib\\interfaces\\iproductospresentacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51E4555F-5559-4143-A4BD-E3F2A34194D5}|Presentacion_Productos_JP_Lib\\Presentacion_Productos_JP_Lib.csproj|c:\\users\\salak301\\source\\repos\\productos_jp\\presentacion_productos_jp_lib\\implementaciones\\productospresentacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51E4555F-5559-4143-A4BD-E3F2A34194D5}|Presentacion_Productos_JP_Lib\\Presentacion_Productos_JP_Lib.csproj|solutionrelative:presentacion_productos_jp_lib\\implementaciones\\productospresentacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51E4555F-5559-4143-A4BD-E3F2A34194D5}|Presentacion_Productos_JP_Lib\\Presentacion_Productos_JP_Lib.csproj|c:\\users\\salak301\\source\\repos\\productos_jp\\presentacion_productos_jp_lib\\implementaciones\\comunicaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51E4555F-5559-4143-A4BD-E3F2A34194D5}|Presentacion_Productos_JP_Lib\\Presentacion_Productos_JP_Lib.csproj|solutionrelative:presentacion_productos_jp_lib\\implementaciones\\comunicaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1753494B-8946-4BED-9A18-EA2FF839A110}|Aplicaciones_Productos_JP_Lib\\Aplicaciones_Productos_JP_Lib.csproj|c:\\users\\salak301\\source\\repos\\productos_jp\\aplicaciones_productos_jp_lib\\aplicaciones_productos_jp_lib.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1753494B-8946-4BED-9A18-EA2FF839A110}|Aplicaciones_Productos_JP_Lib\\Aplicaciones_Productos_JP_Lib.csproj|solutionrelative:aplicaciones_productos_jp_lib\\aplicaciones_productos_jp_lib.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1753494B-8946-4BED-9A18-EA2FF839A110}|Aplicaciones_Productos_JP_Lib\\Aplicaciones_Productos_JP_Lib.csproj|c:\\users\\salak301\\source\\repos\\productos_jp\\aplicaciones_productos_jp_lib\\implementaciones\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1753494B-8946-4BED-9A18-EA2FF839A110}|Aplicaciones_Productos_JP_Lib\\Aplicaciones_Productos_JP_Lib.csproj|solutionrelative:aplicaciones_productos_jp_lib\\implementaciones\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1753494B-8946-4BED-9A18-EA2FF839A110}|Aplicaciones_Productos_JP_Lib\\Aplicaciones_Productos_JP_Lib.csproj|c:\\users\\salak301\\source\\repos\\productos_jp\\aplicaciones_productos_jp_lib\\interfaces\\iproductosaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1753494B-8946-4BED-9A18-EA2FF839A110}|Aplicaciones_Productos_JP_Lib\\Aplicaciones_Productos_JP_Lib.csproj|solutionrelative:aplicaciones_productos_jp_lib\\interfaces\\iproductosaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1753494B-8946-4BED-9A18-EA2FF839A110}|Aplicaciones_Productos_JP_Lib\\Aplicaciones_Productos_JP_Lib.csproj|c:\\users\\salak301\\source\\repos\\productos_jp\\aplicaciones_productos_jp_lib\\interfaces\\iconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1753494B-8946-4BED-9A18-EA2FF839A110}|Aplicaciones_Productos_JP_Lib\\Aplicaciones_Productos_JP_Lib.csproj|solutionrelative:aplicaciones_productos_jp_lib\\interfaces\\iconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1753494B-8946-4BED-9A18-EA2FF839A110}|Aplicaciones_Productos_JP_Lib\\Aplicaciones_Productos_JP_Lib.csproj|c:\\users\\salak301\\source\\repos\\productos_jp\\aplicaciones_productos_jp_lib\\script.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{1753494B-8946-4BED-9A18-EA2FF839A110}|Aplicaciones_Productos_JP_Lib\\Aplicaciones_Productos_JP_Lib.csproj|solutionrelative:aplicaciones_productos_jp_lib\\script.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Productos.cshtml",
+              "DocumentMoniker": "C:\\Users\\salak301\\source\\repos\\Productos_JP\\Front_Producto_JP_Lib\\Pages\\Ventanas\\Productos.cshtml",
+              "RelativeDocumentMoniker": "Front_Producto_JP_Lib\\Pages\\Ventanas\\Productos.cshtml",
+              "ToolTip": "C:\\Users\\salak301\\source\\repos\\Productos_JP\\Front_Producto_JP_Lib\\Pages\\Ventanas\\Productos.cshtml",
+              "RelativeToolTip": "Front_Producto_JP_Lib\\Pages\\Ventanas\\Productos.cshtml",
+              "ViewState": "AgIAADwAAAAAAAAAAAAnwEYAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-12T13:53:07.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Productos.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\salak301\\source\\repos\\Productos_JP\\Front_Producto_JP_Lib\\Pages\\Ventanas\\Productos.cshtml.cs",
+              "RelativeDocumentMoniker": "Front_Producto_JP_Lib\\Pages\\Ventanas\\Productos.cshtml.cs",
+              "ToolTip": "C:\\Users\\salak301\\source\\repos\\Productos_JP\\Front_Producto_JP_Lib\\Pages\\Ventanas\\Productos.cshtml.cs",
+              "RelativeToolTip": "Front_Producto_JP_Lib\\Pages\\Ventanas\\Productos.cshtml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIAwwBIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T13:51:47.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ProductosPresentacion.cs",
+              "DocumentMoniker": "C:\\Users\\salak301\\source\\repos\\Productos_JP\\Presentacion_Productos_JP_Lib\\implementaciones\\ProductosPresentacion.cs",
+              "RelativeDocumentMoniker": "Presentacion_Productos_JP_Lib\\implementaciones\\ProductosPresentacion.cs",
+              "ToolTip": "C:\\Users\\salak301\\source\\repos\\Productos_JP\\Presentacion_Productos_JP_Lib\\implementaciones\\ProductosPresentacion.cs",
+              "RelativeToolTip": "Presentacion_Productos_JP_Lib\\implementaciones\\ProductosPresentacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T13:49:50.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IProductosPresentacion.cs",
+              "DocumentMoniker": "C:\\Users\\salak301\\source\\repos\\Productos_JP\\Presentacion_Productos_JP_Lib\\interfaces\\IProductosPresentacion.cs",
+              "RelativeDocumentMoniker": "Presentacion_Productos_JP_Lib\\interfaces\\IProductosPresentacion.cs",
+              "ToolTip": "C:\\Users\\salak301\\source\\repos\\Productos_JP\\Presentacion_Productos_JP_Lib\\interfaces\\IProductosPresentacion.cs",
+              "RelativeToolTip": "Presentacion_Productos_JP_Lib\\interfaces\\IProductosPresentacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T13:49:18.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\salak301\\source\\repos\\Productos_JP\\Servicios_Productos_JP_Lib\\Program.cs",
+              "RelativeDocumentMoniker": "Servicios_Productos_JP_Lib\\Program.cs",
+              "ToolTip": "C:\\Users\\salak301\\source\\repos\\Productos_JP\\Servicios_Productos_JP_Lib\\Program.cs",
+              "RelativeToolTip": "Servicios_Productos_JP_Lib\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T13:47:16.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductosAplicacion.cs",
+              "DocumentMoniker": "C:\\Users\\salak301\\source\\repos\\Productos_JP\\Aplicaciones_Productos_JP_Lib\\Implementaciones\\ProductosAplicacion.cs",
+              "RelativeDocumentMoniker": "Aplicaciones_Productos_JP_Lib\\Implementaciones\\ProductosAplicacion.cs",
+              "ToolTip": "C:\\Users\\salak301\\source\\repos\\Productos_JP\\Aplicaciones_Productos_JP_Lib\\Implementaciones\\ProductosAplicacion.cs",
+              "RelativeToolTip": "Aplicaciones_Productos_JP_Lib\\Implementaciones\\ProductosAplicacion.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAwCkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T13:37:17.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\salak301\\source\\repos\\Productos_JP\\Front_Producto_JP_Lib\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Front_Producto_JP_Lib\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\salak301\\source\\repos\\Productos_JP\\Front_Producto_JP_Lib\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Front_Producto_JP_Lib\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAnwB4AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-12T14:04:21.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Productos.cs",
+              "DocumentMoniker": "C:\\Users\\salak301\\source\\repos\\Productos_JP\\Aplicaciones_Productos_JP_Lib\\Entidades\\Productos.cs",
+              "RelativeDocumentMoniker": "Aplicaciones_Productos_JP_Lib\\Entidades\\Productos.cs",
+              "ToolTip": "C:\\Users\\salak301\\source\\repos\\Productos_JP\\Aplicaciones_Productos_JP_Lib\\Entidades\\Productos.cs",
+              "RelativeToolTip": "Aplicaciones_Productos_JP_Lib\\Entidades\\Productos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T13:37:54.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Script.sql ",
+              "DocumentMoniker": "C:\\Users\\salak301\\source\\repos\\Productos_JP\\Aplicaciones_Productos_JP_Lib\\Script.sql",
+              "RelativeDocumentMoniker": "Aplicaciones_Productos_JP_Lib\\Script.sql",
+              "ToolTip": "C:\\Users\\salak301\\source\\repos\\Productos_JP\\Aplicaciones_Productos_JP_Lib\\Script.sql",
+              "RelativeToolTip": "Aplicaciones_Productos_JP_Lib\\Script.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-11-12T13:32:08.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\salak301\\source\\repos\\Productos_JP\\Front_Producto_JP_Lib\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Front_Producto_JP_Lib\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\salak301\\source\\repos\\Productos_JP\\Front_Producto_JP_Lib\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "Front_Producto_JP_Lib\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-12T14:00:58.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductosController.cs",
+              "DocumentMoniker": "C:\\Users\\salak301\\source\\repos\\Productos_JP\\Servicios_Productos_JP_Lib\\Controllers\\ProductosController.cs",
+              "RelativeDocumentMoniker": "Servicios_Productos_JP_Lib\\Controllers\\ProductosController.cs",
+              "ToolTip": "C:\\Users\\salak301\\source\\repos\\Productos_JP\\Servicios_Productos_JP_Lib\\Controllers\\ProductosController.cs",
+              "RelativeToolTip": "Servicios_Productos_JP_Lib\\Controllers\\ProductosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T13:46:14.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\salak301\\source\\repos\\Productos_JP\\Front_Producto_JP_Lib\\Program.cs",
+              "RelativeDocumentMoniker": "Front_Producto_JP_Lib\\Program.cs",
+              "ToolTip": "C:\\Users\\salak301\\source\\repos\\Productos_JP\\Front_Producto_JP_Lib\\Program.cs",
+              "RelativeToolTip": "Front_Producto_JP_Lib\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T14:01:46.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Error.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\salak301\\source\\repos\\Productos_JP\\Front_Producto_JP_Lib\\Pages\\Error.cshtml.cs",
+              "RelativeDocumentMoniker": "Front_Producto_JP_Lib\\Pages\\Error.cshtml.cs",
+              "ToolTip": "C:\\Users\\salak301\\source\\repos\\Productos_JP\\Front_Producto_JP_Lib\\Pages\\Error.cshtml.cs",
+              "RelativeToolTip": "Front_Producto_JP_Lib\\Pages\\Error.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T14:02:49.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\salak301\\source\\repos\\Productos_JP\\Front_Producto_JP_Lib\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Front_Producto_JP_Lib\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\salak301\\source\\repos\\Productos_JP\\Front_Producto_JP_Lib\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "Front_Producto_JP_Lib\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T14:03:01.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\salak301\\source\\repos\\Productos_JP\\Front_Producto_JP_Lib\\Pages\\Error.cshtml",
+              "RelativeDocumentMoniker": "Front_Producto_JP_Lib\\Pages\\Error.cshtml",
+              "ToolTip": "C:\\Users\\salak301\\source\\repos\\Productos_JP\\Front_Producto_JP_Lib\\Pages\\Error.cshtml",
+              "RelativeToolTip": "Front_Producto_JP_Lib\\Pages\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-12T14:07:59.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\salak301\\source\\repos\\Productos_JP\\Front_Producto_JP_Lib\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Front_Producto_JP_Lib\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\salak301\\source\\repos\\Productos_JP\\Front_Producto_JP_Lib\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Front_Producto_JP_Lib\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-12T14:08:13.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IComunicaciones.cs",
+              "DocumentMoniker": "C:\\Users\\salak301\\source\\repos\\Productos_JP\\Presentacion_Productos_JP_Lib\\interfaces\\IComunicaciones.cs",
+              "RelativeDocumentMoniker": "Presentacion_Productos_JP_Lib\\interfaces\\IComunicaciones.cs",
+              "ToolTip": "C:\\Users\\salak301\\source\\repos\\Productos_JP\\Presentacion_Productos_JP_Lib\\interfaces\\IComunicaciones.cs",
+              "RelativeToolTip": "Presentacion_Productos_JP_Lib\\interfaces\\IComunicaciones.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T13:49:02.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DatosGenerales.cs",
+              "DocumentMoniker": "C:\\Users\\salak301\\source\\repos\\Productos_JP\\Aplicaciones_Productos_JP_Lib\\Nucleo\\DatosGenerales.cs",
+              "RelativeDocumentMoniker": "Aplicaciones_Productos_JP_Lib\\Nucleo\\DatosGenerales.cs",
+              "ToolTip": "C:\\Users\\salak301\\source\\repos\\Productos_JP\\Aplicaciones_Productos_JP_Lib\\Nucleo\\DatosGenerales.cs",
+              "RelativeToolTip": "Aplicaciones_Productos_JP_Lib\\Nucleo\\DatosGenerales.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T13:34:46.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LogConversor.cs",
+              "DocumentMoniker": "C:\\Users\\salak301\\source\\repos\\Productos_JP\\Aplicaciones_Productos_JP_Lib\\Nucleo\\LogConversor.cs",
+              "RelativeDocumentMoniker": "Aplicaciones_Productos_JP_Lib\\Nucleo\\LogConversor.cs",
+              "ToolTip": "C:\\Users\\salak301\\source\\repos\\Productos_JP\\Aplicaciones_Productos_JP_Lib\\Nucleo\\LogConversor.cs",
+              "RelativeToolTip": "Aplicaciones_Productos_JP_Lib\\Nucleo\\LogConversor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T13:35:10.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Comunicaciones.cs",
+              "DocumentMoniker": "C:\\Users\\salak301\\source\\repos\\Productos_JP\\Presentacion_Productos_JP_Lib\\implementaciones\\Comunicaciones.cs",
+              "RelativeDocumentMoniker": "Presentacion_Productos_JP_Lib\\implementaciones\\Comunicaciones.cs",
+              "ToolTip": "C:\\Users\\salak301\\source\\repos\\Productos_JP\\Presentacion_Productos_JP_Lib\\implementaciones\\Comunicaciones.cs",
+              "RelativeToolTip": "Presentacion_Productos_JP_Lib\\implementaciones\\Comunicaciones.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T13:49:36.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Presentacion_Productos_JP_Lib",
+              "DocumentMoniker": "C:\\Users\\salak301\\source\\repos\\Productos_JP\\Presentacion_Productos_JP_Lib\\Presentacion_Productos_JP_Lib.csproj",
+              "RelativeDocumentMoniker": "Presentacion_Productos_JP_Lib\\Presentacion_Productos_JP_Lib.csproj",
+              "ToolTip": "C:\\Users\\salak301\\source\\repos\\Productos_JP\\Presentacion_Productos_JP_Lib\\Presentacion_Productos_JP_Lib.csproj",
+              "RelativeToolTip": "Presentacion_Productos_JP_Lib\\Presentacion_Productos_JP_Lib.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-12T13:30:31.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IConexion.cs",
+              "DocumentMoniker": "C:\\Users\\salak301\\source\\repos\\Productos_JP\\Aplicaciones_Productos_JP_Lib\\Interfaces\\IConexion.cs",
+              "RelativeDocumentMoniker": "Aplicaciones_Productos_JP_Lib\\Interfaces\\IConexion.cs",
+              "ToolTip": "C:\\Users\\salak301\\source\\repos\\Productos_JP\\Aplicaciones_Productos_JP_Lib\\Interfaces\\IConexion.cs",
+              "RelativeToolTip": "Aplicaciones_Productos_JP_Lib\\Interfaces\\IConexion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T13:35:19.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Aplicaciones_Productos_JP_Lib",
+              "DocumentMoniker": "C:\\Users\\salak301\\source\\repos\\Productos_JP\\Aplicaciones_Productos_JP_Lib\\Aplicaciones_Productos_JP_Lib.csproj",
+              "RelativeDocumentMoniker": "Aplicaciones_Productos_JP_Lib\\Aplicaciones_Productos_JP_Lib.csproj",
+              "ToolTip": "C:\\Users\\salak301\\source\\repos\\Productos_JP\\Aplicaciones_Productos_JP_Lib\\Aplicaciones_Productos_JP_Lib.csproj",
+              "RelativeToolTip": "Aplicaciones_Productos_JP_Lib\\Aplicaciones_Productos_JP_Lib.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-12T13:30:51.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\salak301\\source\\repos\\Productos_JP\\Aplicaciones_Productos_JP_Lib\\Implementaciones\\Conexion.cs",
+              "RelativeDocumentMoniker": "Aplicaciones_Productos_JP_Lib\\Implementaciones\\Conexion.cs",
+              "ToolTip": "C:\\Users\\salak301\\source\\repos\\Productos_JP\\Aplicaciones_Productos_JP_Lib\\Implementaciones\\Conexion.cs",
+              "RelativeToolTip": "Aplicaciones_Productos_JP_Lib\\Implementaciones\\Conexion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T13:36:38.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IProductosAplicacion.cs",
+              "DocumentMoniker": "C:\\Users\\salak301\\source\\repos\\Productos_JP\\Aplicaciones_Productos_JP_Lib\\Interfaces\\IProductosAplicacion.cs",
+              "RelativeDocumentMoniker": "Aplicaciones_Productos_JP_Lib\\Interfaces\\IProductosAplicacion.cs",
+              "ToolTip": "C:\\Users\\salak301\\source\\repos\\Productos_JP\\Aplicaciones_Productos_JP_Lib\\Interfaces\\IProductosAplicacion.cs",
+              "RelativeToolTip": "Aplicaciones_Productos_JP_Lib\\Interfaces\\IProductosAplicacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T13:36:07.979Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

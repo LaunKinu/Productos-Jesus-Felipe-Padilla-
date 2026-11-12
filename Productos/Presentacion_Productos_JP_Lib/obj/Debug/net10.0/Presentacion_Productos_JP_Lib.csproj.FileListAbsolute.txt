@@ -1,0 +1,15 @@
+C:\Users\salak301\source\repos\Productos_JP\Presentacion_Productos_JP_Lib\obj\Debug\net10.0\Presentacion_Productos_JP_Lib.csproj.AssemblyReference.cache
+C:\Users\salak301\source\repos\Productos_JP\Presentacion_Productos_JP_Lib\obj\Debug\net10.0\Presentacion_Productos_JP_Lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salak301\source\repos\Productos_JP\Presentacion_Productos_JP_Lib\obj\Debug\net10.0\Presentacion_Productos_JP_Lib.AssemblyInfoInputs.cache
+C:\Users\salak301\source\repos\Productos_JP\Presentacion_Productos_JP_Lib\obj\Debug\net10.0\Presentacion_Productos_JP_Lib.AssemblyInfo.cs
+C:\Users\salak301\source\repos\Productos_JP\Presentacion_Productos_JP_Lib\obj\Debug\net10.0\Presentacion_Productos_JP_Lib.csproj.CoreCompileInputs.cache
+C:\Users\salak301\source\repos\Productos_JP\Presentacion_Productos_JP_Lib\bin\Debug\net10.0\Presentacion_Productos_JP_Lib.deps.json
+C:\Users\salak301\source\repos\Productos_JP\Presentacion_Productos_JP_Lib\bin\Debug\net10.0\Presentacion_Productos_JP_Lib.dll
+C:\Users\salak301\source\repos\Productos_JP\Presentacion_Productos_JP_Lib\bin\Debug\net10.0\Presentacion_Productos_JP_Lib.pdb
+C:\Users\salak301\source\repos\Productos_JP\Presentacion_Productos_JP_Lib\bin\Debug\net10.0\Aplicaciones_Productos_JP_Lib.dll
+C:\Users\salak301\source\repos\Productos_JP\Presentacion_Productos_JP_Lib\bin\Debug\net10.0\Aplicaciones_Productos_JP_Lib.pdb
+C:\Users\salak301\source\repos\Productos_JP\Presentacion_Productos_JP_Lib\obj\Debug\net10.0\Presenta.A713DD7C.Up2Date
+C:\Users\salak301\source\repos\Productos_JP\Presentacion_Productos_JP_Lib\obj\Debug\net10.0\Presentacion_Productos_JP_Lib.dll
+C:\Users\salak301\source\repos\Productos_JP\Presentacion_Productos_JP_Lib\obj\Debug\net10.0\refint\Presentacion_Productos_JP_Lib.dll
+C:\Users\salak301\source\repos\Productos_JP\Presentacion_Productos_JP_Lib\obj\Debug\net10.0\Presentacion_Productos_JP_Lib.pdb
+C:\Users\salak301\source\repos\Productos_JP\Presentacion_Productos_JP_Lib\obj\Debug\net10.0\ref\Presentacion_Productos_JP_Lib.dll

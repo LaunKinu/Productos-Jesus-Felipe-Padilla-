@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Aplicaciones_Productos_JP_Lib/Aplicaciones_Productos_JP_Lib.csproj" />
+  <Project Path="Front_Producto_JP_Lib/Front_Producto_JP_Lib.csproj" />
+  <Project Path="Presentacion_Productos_JP_Lib/Presentacion_Productos_JP_Lib.csproj" />
+  <Project Path="Servicios_Productos_JP_Lib/Servicios_Productos_JP_Lib.csproj" />
+</Solution>

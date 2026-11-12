@@ -1,0 +1,6 @@
+@Servicios_Productos_JP_Lib_HostAddress = http://localhost:5063
+
+GET {{Servicios_Productos_JP_Lib_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
